@@ -1,5 +1,3 @@
- 3D Physics-Informed Battery Digital Twin
-
  Overview
 
 This repository contains a Physics-Informed Fourier Neural Operator (FNO) designed to act as a real-time Digital Twin for EV battery packs.
